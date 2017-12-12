@@ -9,3 +9,5 @@ last day
 it is night
 Creating a new branch is quick
 this branch is dev
+
+today is thrisday
