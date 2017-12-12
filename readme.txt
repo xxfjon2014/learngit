@@ -1,6 +1,6 @@
 
 Git is a distributed version control system
-Git is a free software
+Git is a free software issue
 git has a mutable index called stage
 
 today is monday
